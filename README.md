@@ -26,3 +26,5 @@
 מזהי המקומות נמצאים ב־locations.json. התוכן הציבורי כאן הוא דוגמה מהספר משנת 1910, לא מאגר העבודה.
 
 [Operations](OPERATIONS.md)
+
+[תוכן העניינים לכל הכרכים](contents.html) · [Corpus operations](CORPUS-OPERATIONS.md)
